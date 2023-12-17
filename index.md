@@ -1,4 +1,4 @@
 ---
-title: Welcome to LEAPS lab
+title: LA Citations Dataset - LEAPS lab
 ---
 
